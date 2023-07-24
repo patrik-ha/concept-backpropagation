@@ -15,6 +15,6 @@ In practical cases, this means altering chess positions in order to maximise thr
 ## How do I run it?
 This codebase includes routines for the application areas described in the corresponding paper. The chess models and chess-related concept datasets were retrieved from the repository for [Explainable Minichess](https://github.com/patrik-ha/explainable-minichess).
 
-All the experiments are provided through standard Python notebooks. They should work for standard versions of Python, with varying versions of scientific Python packages. (i.e. Tensorflow and Numpy) It also requires the [larq](https://github.com/larq/larq)-package.
+All the experiments are provided through standard Python notebooks. They should work for standard versions of Python, with varying versions of scientific Python packages. (i.e. Tensorflow and Numpy) They also require the [larq](https://github.com/larq/larq)-package.
 
 The main method remains mostly the same in most of the notebooks, and can as such be adapted to other problem cases.
