@@ -3,7 +3,7 @@
 
 ![Example](header.png)
 
-Corresponding paper: xx.xx.xx.xx
+Corresponding paper: [https://arxiv.org/abs/2307.12601](https://arxiv.org/abs/2307.12601)
 
 ## Description
 This project implements concept backpropagation, a method for visualising how a given concept (found through standard concept detection) is represented in a probed neural network model. Simply put, for a neural network model, an input sample, and a trained concept probe that indicates the presence of the given concept in one of the intermediary layers of the model, the method aims to find the smallest perturbation that maximises the detection of the concept. 
